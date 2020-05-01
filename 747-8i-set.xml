@@ -37,9 +37,14 @@
 
 		<aero>747-8i-yasim</aero>
 
-		<startup>
-			<splash-texture>Aircraft/747-8i/splash-8i.png</splash-texture>
-		</startup>
+		 <previews>
+	   	 <!-- Splash starts here -->
+          		<preview>
+               			 <type>exterior</type>
+                		 <splash type="bool">true</splash>
+                	         <path>Splashes/splash1.png</path>
+            	        </preview>
+		</previews>
 
 		<!-- Default livery set up - http://wiki.flightgear.org/index.php/Livery_over_MP -->
 		<model>
