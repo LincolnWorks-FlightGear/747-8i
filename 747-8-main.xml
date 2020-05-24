@@ -25,6 +25,8 @@
         	<fuel-fraction>0.2</fuel-fraction>
         
 		<virtual-cockpit archive="y">false</virtual-cockpit>
+		
+		<minimum-fg-version>2018.3.5</minimum-fg-version>
 
 		<!-- System defintions -->
 		<systems>
