@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Pan Am</name>
+				<texture>Liveries/748I/pan-am.png</texture>
+			</livery>
+			<turbofans>
+				<name type="string">Pan Am</name>
+				<texture>Liveries/748I/pan-am_eng.png</texture>
+			</turbofans>
+			<wings>
+				<name type="string">Pan Am</name>
+				<texture>Liveries/748I/wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>
