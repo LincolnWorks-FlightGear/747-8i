@@ -187,11 +187,8 @@ Service ceiling	43,000 ft (13,000 m)
 		<!-- Aircraft-specific menu entries -->
 		<menubar>
 		    <default>
-
-		    <menu n="10">
-			<label>747-8F</label>
-			<enabled type="bool">true</enabled>
-			  <menu n="3">
+		      <menu n="3">
+		      <enabled type="bool">true</enabled>
 			<item n="0">
            			<label>Autopilot Dialog</label>
             			<binding>
@@ -201,6 +198,10 @@ Service ceiling	43,000 ft (13,000 m)
             		</binding>
         	  	</item>
 		    </menu>
+
+		    <menu n="10">
+			<label>747-8F</label>
+			<enabled type="bool">true</enabled>
                 	<item>
                             <label>Autostart</label>
 			    <binding>
