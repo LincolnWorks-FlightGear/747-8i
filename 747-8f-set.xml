@@ -226,14 +226,6 @@ Service ceiling	43,000 ft (13,000 m)
 			    </binding>
 			</item>
 			<item>
-           			<label>Autopilot Dialog</label>
-            			<binding>
-             			 	<command>nasal</command>
-              				<script>var ap_dialog = gui.Dialog.new("sim/gui/dialogs/ap_dialog/dialog", "Aircraft/747-8i/Dialogs/it-autoflight-dlg.xml");
-                             		ap_dialog.open();</script>
-            			</binding>
-        	  	</item>
-			<item>
 			    <label>Pushback</label>
 			    <name>pushback</name>
 			    <binding>
